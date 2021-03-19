@@ -35,7 +35,7 @@ Another challenge for using AR in the design review process is the interaction w
 
 Another challenge is to document users' feedback and share it with designers to implement the requested changes. In AR, users deal with 3D objects and everything that is given as feedback to these 3D objects needs to be saved later along with that 3D model. Here, the first problem is to attach users' feedback to the respective component of the 3D model and the second problem is to store that whole 3D model so that it can be shared with the designer. Hence, in AR Design Review, documentation and sharing of users' feedback is a challenging task. Therefore, to use AR for the product design review process productively, issues like provision of input modality and documenting feedback need to be solved beforehand so that users can effectively provide feedback to 3D models.
 
-## Goal of the thesis
+## Goal
 
 The goal of this thesis is to develop an interactive, intuitive, and efficient solution to provide feedback to 3D models using multimedia annotations in AR-based design reviews. This solution is then prototypically implemented for the Microsoft HoloLens 2. In order to achieve the goal of this thesis, systematic research needs to be done.
 
