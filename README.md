@@ -98,3 +98,11 @@ The feedback solution project consists of custom icons, materials, 3D models, cu
 1. Unity 2019
 2. Mixed Reality Toolkit 2.4
 3. IBM Watson Speech to Text SDK
+
+## Presentation slides
+
+To check presentation slides, kindly open - "Master Thesis Presentation - Ruchir Naphade - 6826490.pptx" file.
+
+## Thesis document
+
+Available at request.
