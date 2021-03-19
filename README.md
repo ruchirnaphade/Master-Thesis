@@ -69,7 +69,21 @@ Although the solution developed in this thesis is for Microsoft HoloLens 2, it i
 ![feedbackSolutionOverview](/cross-platform.JPG)
 [Feedback Solution - Overview]
 
-The feedback solution project consists of custom icons, materials, 3D models, custom prefabs\footnote{\textbf{Prefab} - Unity’s Prefab system allows to create, configure, and store a GameObject complete with all its components, property values, and child GameObjects as a reusable Asset.}, custom scenes, custom scripts, etc. The scene view of the project consists of four empty game objects\footnote{\textbf{GameObject} - Base class for all entities in Unity Scenes.} namely \textit{InteractibleManager}, \textit{GUI}, \textit{Model} and \textit{Snapshots}. \textit{InteractibleManager} is a starting point of the project which is responsible for instantiating toolbars dynamically at run-time with the help of scripts \textit{ToolbarManager} and \textit{ObjectSpawnManager}. Using these scripts, \textit{InteractibleManager} instantiates toolbars under \textit{GUI} game object. The \textit{Model} game object is used for attaching 3D models to provide feedback. The last game object is \textit{Snapshots} game object. This game object is used to attach snapshots captured by users as child objects. This whole scene is saved with the name \textit{FeedbackSolutionScene} under the folder named \textit{Scenes} in the project. Figure below gives an overview of this project structure.
+The feedback solution project consists of custom icons, materials, 3D models, customprefabs1, custom scenes, custom scripts, etc. The scene view of the project consists of four empty game objects namely InteractibleManager, GUI, Model and Snapshots. InteractibleManageris a starting point of the project which is responsible for instantiating toolbars dynamically at run-time with the help of scripts ToolbarManager and ObjectSpawnManager. Using these scripts,InteractibleManager instantiates toolbars under GUIgame object.  TheModelgame object is used for attaching 3D models to providefeedback. The last game object isSnapshotsgame object.  This game object is used toattach snapshots captured by users as child objects. This whole scene is saved with the name FeedbackSolutionScene under the folder named Scenes in the project. Figure 3-2gives an overview of this project structure.
 
 ![ProjectStructure](/project structure.JPG)
 [Project Structure - Overview]
+
+1. Feedback in Augmented Reality
+   1. Text annotations
+   2. Text annotations with graphics/icons
+   3. 3D Arrow
+   4. Freehand drawing
+   5. One/Two-hand measurement scale
+
+2. Efficient interaction
+   1. Speech modality
+   2. Gesture modality
+      1. Virtual touch
+      2. Air tap and hold
+      
