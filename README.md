@@ -87,3 +87,14 @@ The feedback solution project consists of custom icons, materials, 3D models, cu
       1. Virtual touch
       2. Air tap and hold
       
+3. Documentation of feedback
+   1. Snapshot
+   2. XML Serialization
+
+4. Feedback Recreation
+     
+## Development Tools
+
+1. Unity 2019
+2. Mixed Reality Toolkit 2.4
+3. IBM Watson Speech to Text SDK
