@@ -66,5 +66,5 @@ Speech modality is considered as one of the easiest modalities to implement. The
 
 Although the solution developed in this thesis is for Microsoft HoloLens 2, it is developed in such a way that it can be used on other platforms such as iOS, Android, etc. It is also a requirement of the thesis to design the solution with cross-platform functionality as much as possible. Hence, the project is structured in such a way that interaction and visualization functionalities are separated from each other. Interaction functionalities are platform-specific which can work on Microsoft HoloLens 2 whereas visualization functionalities are platform independent which can be used across any platform as shown in Figure below.
 
-![feedbackSolutionOverview](/cross-platform.jpg)
+![feedbackSolutionOverview](/cross-platform.JPG)
 [Feedback Solution - Overview]
