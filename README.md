@@ -44,3 +44,15 @@ Hence, to achieve the goal of the thesis, first, the design review process in PD
 Similarly, AR technology, its types, AR devices, features provided by AR, etc., need to be explored thoroughly. Then, AR approaches for conducting design reviews have to be studied meticulously. It is crucial to find out the most efficient and commonly used interaction modalities are used for AR-based design reviews. Also, an analysis of these approaches needs to be done to determine the challenges that arise while conducting design reviews. Based on the analysis, a concept for interactions to provide multimedia annotations to 3D models needs to be developed.
 
 Furthermore, the developed concept needs to be used as a base to define and implement a prototype for Microsoft HoloLens 2 in this thesis. Also, an evaluation of the developed prototype should be done to conclude this thesis with a comprehensive summary and outlook.
+
+## Requirements
+
+AR technology has been steadily growing technology for conducting design reviews in industries by introducing interactive visualization and natural interaction techniques with 3D content through different AR devices but to use this technology's potential fully, the below-mentioned requirements need to be fulfilled.
+
+* Interactive visualization
+* Natural interaction
+* Feedback provision
+* Granular feedback
+* Documentation of feedback
+* Cross-platform usage
+
